@@ -73,6 +73,10 @@ ul.unstyled{
       text-decoration: none;
 
    }
+   #head1>ul>li>a{
+    color: #FFFFFF;
+    font-weight: bold;
+   }
    #head1 > ul>li>a:hover{
       color: #FFFFFF;
    }
@@ -106,6 +110,10 @@ ul.unstyled{
 
 #slide3 {
    background: url('../../images/r3.m.jpg') top center no-repeat;
+}
+.panel img{
+  height: 150px;
+  width: 150px;
 }
 
 
@@ -193,6 +201,15 @@ table caption{
 .carousel-caption h4{
    font-size: 22px;
 }   
+/*#fixture td img{
+   height: 10px;
+   width: 10px;
+}
+*/
+.panel img{
+  height: 100px;
+  width: 100px;
+}
 }
 
 /* Large desktop */
