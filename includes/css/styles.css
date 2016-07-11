@@ -48,6 +48,10 @@ footer{
   margin-bottom: 190px;
   color: #FFFFFF;
 }
+/*.panel img{
+  height: 100px;
+  width: 100px;
+}*/
 /* --------------------------------------
    Typography
    -------------------------------------- */
@@ -145,8 +149,8 @@ ul.unstyled{
    background: url('../../images/r3.m.jpg') top center no-repeat;
 }
 .panel img{
-  height: 150px;
-  width: 150px;
+  height: 120px;
+  width: 120px;
 }
 table tr td img{
   height: 40px;
