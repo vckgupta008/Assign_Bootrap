@@ -15,7 +15,7 @@ footer{
 
    background-color:#32393D;
    color: #FFFFFF;
-   font-size: 11px;
+   font-size: 15px;
    padding: 20px;
 
 }
@@ -235,11 +235,7 @@ table caption{
 .carousel-caption h4{
    font-size: 22px;
 }   
-/*#fixture td img{
-   height: 10px;
-   width: 10px;
-}
-*/
+
 .panel img{
   height: 100px;
   width: 100px;
